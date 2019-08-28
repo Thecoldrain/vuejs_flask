@@ -15,9 +15,11 @@ import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import VueJsonp from 'vue-jsonp'
 import resource from "./resource"
 import Vueresource from "vue-resource"
+import VueCookies from "vue-cookies"
 
-Vue.use(Vueresource)
-Vue.http.options.emulateJSON = true
+Vue.use(VueCookies);
+Vue.use(Vueresource);
+Vue.http.options.emulateJSON = true;
 
 Vue.config.productionTip = false;
 
@@ -32,4 +34,4 @@ new Vue({
   resource,
   components: { App, },
   template: '<App/>'
-})
+});

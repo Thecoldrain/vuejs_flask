@@ -2,92 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86a1efd4-7e3b-4765-ac1c-5d1ea42f1982" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/25de3509-bf4f-4e80-85ef-f29710f971b5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/.idea/flask_web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/main/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/main/mian.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/migrations/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/migrations/alembic.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/migrations/env.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/migrations/script.py.mako" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/migrations/versions/e370c4d9ba0c_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/myweb.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/requirement.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/views/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/views/tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_web/views/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/.postcssrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/build/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/build/check-versions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/build/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/build/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/build/vue-loader.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/build/webpack.base.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/build/webpack.dev.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/build/webpack.prod.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/config/dev.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/config/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/config/prod.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/assets/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/assets/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/assets/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/assets/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/assets/bootstrap-3.3.7-dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/assets/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/assets/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/assets/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/assets/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/assets/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/assets/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/assets/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/assets/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/assets/bootstrap-3.3.7-dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/assets/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/assets/bootstrap-3.3.7-dist/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/axios/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/components/HelloWorld.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/components/js_test.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/login/login.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/login/loginOut.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/mp4/mp4.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/resource/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/src/top/top.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/static/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/static/mp4/mabv3Hya_2347029295_shd.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_web/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/25de3509-bf4f-4e80-85ef-f29710f971b5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/25de3509-bf4f-4e80-85ef-f29710f971b5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_web/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask_web/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_web/main/mian.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask_web/main/mian.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_web/myweb.db" beforeDir="false" afterPath="$PROJECT_DIR$/flask_web/myweb.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_web/views/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask_web/views/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_web/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_web/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue_web/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_web/src/axios/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_web/src/axios/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_web/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_web/src/main.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/vuejs_flask$mian.coverage" NAME="mian Coverage Results" MODIFIED="1566975019002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask_web/main" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -114,10 +51,66 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="myweb" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="myweb" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+        <item name="user: table" type="ffe0bd85:SqliteImplModel$Table" />
       </path>
     </expand>
     <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="516351644">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="js" value="8" />
+          <entry key="json" value="2" />
+          <entry key="py" value="12" />
+          <entry key="user" value="3" />
+          <entry key="vue" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="3" />
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="2" />
+          <entry key="JavaScript" value="8" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="12" />
+          <entry key="Vue.js" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="65" />
+          <entry key="py" value="305" />
+          <entry key="vue" value="152" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="65" />
+          <entry key="Python" value="305" />
+          <entry key="Vue.js" value="152" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="web" />
@@ -125,45 +118,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_web/config.py">
+        <entry file="file://$PROJECT_DIR$/vue_web/src/login/login.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/flask_web/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vue_web/src/login/loginOut.vue">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_web/views/user.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-              <folding>
-                <element signature="e#15#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_web/main/mian.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            <state relative-caret-position="162">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -171,8 +129,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vue_web/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="276">
+              <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#140#161#0" expanded="true" />
@@ -182,13 +140,71 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_web/__init__.py">
+        <entry file="file://$PROJECT_DIR$/vue_web/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="-95">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flask_web/views/user.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="45" column="28" lean-forward="true" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
               <folding>
-                <element signature="e#15#95#0" expanded="true" />
+                <element signature="e#29#38#0" expanded="true" />
+                <element signature="e#1761#3700#0" />
+                <element signature="e#3721#3795#0" />
+                <element signature="e#3843#5386#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue_web/src/login/registe.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2014">
+              <caret line="134" column="34" lean-forward="true" selection-start-line="134" selection-start-column="34" selection-end-line="134" selection-end-column="34" />
+              <folding>
+                <element signature="e#3541#3687#0" />
+                <element signature="e#3707#3859#0" />
+                <element signature="n#style#0;n#!!top" />
+                <element signature="e#3530#3558#0" />
+                <element signature="e#3575#3598#0" />
+                <element signature="e#3607#3646#0" />
+                <element signature="e#3657#3706#0" />
+                <element signature="e#3719#3749#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue_web/src/mp4/mp4.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/ProgramData/Anaconda3/envs/vuejs_flask/Lib/site-packages/flask/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="581">
+              <caret line="1273" selection-start-line="1273" selection-end-line="1273" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask_web/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="33" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -197,32 +213,14 @@
         <entry file="das://25de3509-bf4f-4e80-85ef-f29710f971b5/schema/main/table/user">
           <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
             <state>
-              <filtering enabled="true">
-                <filter text="" />
-              </filtering>
+              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vue_web/src/App.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vue_web/src/router/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/vue_web/src/login/loginOut.vue">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -231,9 +229,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Vue Single File Component" />
         <option value="Python Script" />
         <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -302,23 +300,38 @@
         <option value="$PROJECT_DIR$/vue_web/src/video/video.vue" />
         <option value="$PROJECT_DIR$/vue_web/src/router/index.js" />
         <option value="$PROJECT_DIR$/vue_web/src/top/top.vue" />
-        <option value="$PROJECT_DIR$/vue_web/src/App.vue" />
         <option value="$PROJECT_DIR$/vue_web/src/mp4/mp4.vue" />
         <option value="$PROJECT_DIR$/vue_web/static/js/config.js" />
         <option value="$PROJECT_DIR$/vue_web/config/prod.env.js" />
         <option value="$PROJECT_DIR$/flask_web/config.py" />
         <option value="$PROJECT_DIR$/vue_web/src/axios/axios.js" />
-        <option value="$PROJECT_DIR$/vue_web/src/axios/index.js" />
-        <option value="$PROJECT_DIR$/flask_web/__init__.py" />
         <option value="$PROJECT_DIR$/vue_web/package.json" />
         <option value="$PROJECT_DIR$/vue_web/config/index.js" />
         <option value="$PROJECT_DIR$/vue_web/vue.config.js" />
-        <option value="$PROJECT_DIR$/flask_web/views/user.py" />
         <option value="$PROJECT_DIR$/flask_web/main/mian.py" />
-        <option value="$PROJECT_DIR$/vue_web/src/login/login.vue" />
+        <option value="$PROJECT_DIR$/vue_web/src/axios/index.js" />
+        <option value="$PROJECT_DIR$/flask_web/__init__.py" />
+        <option value="$PROJECT_DIR$/vue_web/src/App.vue" />
         <option value="$PROJECT_DIR$/vue_web/src/main.js" />
+        <option value="$PROJECT_DIR$/flask_web/views/user.py" />
+        <option value="$PROJECT_DIR$/vue_web/src/login/login.vue" />
+        <option value="$PROJECT_DIR$/vue_web/src/login/registe.vue" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/vue_web/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/vue_web/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -339,18 +352,61 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="vuejs_flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vuejs_flask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vuejs_flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vuejs_flask" type="462c0819:PsiDirectoryNode" />
+              <item name="flask_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vuejs_flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vuejs_flask" type="462c0819:PsiDirectoryNode" />
+              <item name="vue_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vuejs_flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vuejs_flask" type="462c0819:PsiDirectoryNode" />
+              <item name="vue_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vuejs_flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vuejs_flask" type="462c0819:PsiDirectoryNode" />
+              <item name="vue_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vuejs_flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vuejs_flask" type="462c0819:PsiDirectoryNode" />
+              <item name="vue_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mp4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vuejs_flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vuejs_flask" type="462c0819:PsiDirectoryNode" />
+              <item name="vue_web" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vuejs_flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vuejs_flask" type="462c0819:PsiDirectoryNode" />
+              <item name="vue_web" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="mp4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -358,14 +414,16 @@
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="flask_sqlalchemy&#9;ACTION&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Redshift" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
@@ -500,7 +558,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm">
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <package-json value="$PROJECT_DIR$/vue_web/package.json" />
       <command value="run" />
       <scripts>
@@ -510,7 +568,7 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+    <configuration name="dev" type="js.build_tools.npm" factoryName="npm" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/vue_web/package.json" />
       <command value="run" />
       <scripts>
@@ -631,24 +689,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-4" width="1442" height="905" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4970297" visible="true" weight="0.33819243" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4970297" visible="true" weight="0.14069591" />
       <window_info id="Structure" order="1" sideWeight="0.5029703" side_tool="true" weight="0.3228863" />
       <window_info id="Favorites" order="2" sideWeight="0.5021739" side_tool="true" weight="0.26778883" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32898173" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49273145" weight="0.34146342" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34073108" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49273145" weight="0.33990148" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.24630542" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49808723" weight="0.32898173" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49961746" visible="true" weight="0.3237598" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49961746" weight="0.3229508" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51338947" side_tool="true" weight="0.31462142" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.48661056" weight="0.28720626" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.48661056" weight="0.40065682" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32898173" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.32898173" />
       <window_info anchor="bottom" id="TypeScript" order="14" weight="0.32898173" />
@@ -657,7 +715,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32976282" />
-      <window_info anchor="right" id="Database" order="4" weight="0.2995627" />
+      <window_info anchor="right" id="Database" order="4" weight="0.29954615" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26778883" />
@@ -722,20 +780,9 @@
         </entry>
       </map>
     </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -756,29 +803,24 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/flask_web/views/user.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="17" />
+          <line>14</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/flask_web/views/user.py</url>
-          <line>96</line>
-          <option name="timeStamp" value="23" />
+          <line>60</line>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/flask_web/views/user.py</url>
-          <line>94</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/flask_web/views/user.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="27" />
+          <line>24</line>
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="User(username=username, passwrod=userpassword, eamil=email, phone=phone, name=name)" language="Python" />
+        <watch expression="requests['success']" language="Python" />
       </configuration>
     </watches-manager>
   </component>
@@ -792,6 +834,36 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>requests['success']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>requests.success</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>requests</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>requests = json.dumps({&quot;success&quot;:&quot;创建用户成功&quot;})</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>requests = json.dumps({&quot;success&quot;: parameter['create_user_success']})</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>requests = json.dumps()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>User(username=username, passwrod=userpassword, eamil=email, phone=phone, name=name)</expression-string>
         <language-id>Python</language-id>
@@ -812,36 +884,6 @@
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>User.query.filter_by(username=username,eamil=eamil).first()</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>response['accuess']= &quot;成功&quot;</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>post[&quot;userpassword&quot;]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>post.get(&quot;userpassword&quot;)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>username==None</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>username!=name</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
@@ -852,86 +894,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="das://25de3509-bf4f-4e80-85ef-f29710f971b5/schema/main/table/cookie_auth">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_web/views/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
-    <entry file="file://$PROJECT_DIR$/vue_web/src/login/login.py" />
-    <entry file="file://$PROJECT_DIR$/flask_web/requirement.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_web/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_web/views/tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda2/envs/flask_web/lib/python2.7/site-packages/flask/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="2308" selection-start-line="2308" selection-end-line="2308" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda2/envs/flask_web/lib/python2.7/site-packages/werkzeug/debug/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="316" selection-start-line="316" selection-end-line="316" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda2/envs/flask_web/lib/python2.7/BaseHTTPServer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="339" selection-start-line="339" selection-end-line="339" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda2/envs/flask_web/lib/python2.7/site-packages/werkzeug/serving.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="324" selection-start-line="324" selection-end-line="324" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda2/envs/flask_web/lib/python2.7/SocketServer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="598" selection-start-line="598" selection-end-line="598" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda2/envs/flask_web/lib/python2.7/threading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="753" selection-start-line="753" selection-end-line="753" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/anaconda2/envs/flask_web/lib/python2.7/BaseHTTPServer.py" />
+    <entry file="file://$USER_HOME$/anaconda2/envs/flask_web/lib/python2.7/site-packages/werkzeug/serving.py" />
+    <entry file="file://$USER_HOME$/anaconda2/envs/flask_web/lib/python2.7/SocketServer.py" />
+    <entry file="file://$USER_HOME$/anaconda2/envs/flask_web/lib/python2.7/threading.py" />
     <entry file="file://$PROJECT_DIR$/vue_web/src/test/login.html" />
     <entry file="file://$PROJECT_DIR$/vue_web/src/components/HelloWorld.vue">
       <provider selected="true" editor-type-id="text-editor">
@@ -943,36 +909,11 @@
     <entry file="file://$PROJECT_DIR$/vue_web/src/components/login.vue" />
     <entry file="file://$PROJECT_DIR$/vue_web/src/video/video.js.vue" />
     <entry file="file://$PROJECT_DIR$/vue_web/static/mp4/m.mp4" />
-    <entry file="file://$USER_HOME$/anaconda2/envs/flask_web/lib/python2.7/site-packages/requests/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-343">
-          <caret line="25" column="18" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda2/envs/flask_web/lib/python2.7/httplib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="1014" selection-start-line="1014" selection-end-line="1014" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/anaconda2/envs/flask_web/lib/python2.7/site-packages/requests/api.py" />
+    <entry file="file://$USER_HOME$/anaconda2/envs/flask_web/lib/python2.7/httplib.py" />
     <entry file="file://$PROJECT_DIR$/a.py" />
-    <entry file="file://$PROJECT_DIR$/vue_web/node_modules/popover.js/dist/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-495" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_web/node_modules/jquery/dist/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="2044" lean-forward="true" selection-start-line="2044" selection-end-line="2044" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_web/node_modules/popover.js/dist/index.js" />
+    <entry file="file://$PROJECT_DIR$/vue_web/node_modules/jquery/dist/jquery.js" />
     <entry file="file://$PROJECT_DIR$/vue_web/build/webpack.base.conf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
@@ -980,21 +921,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue_web/src/top/top.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="86" selection-start-line="19" selection-start-column="86" selection-end-line="19" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vue_web/static/js/config.js" />
-    <entry file="file://$PROJECT_DIR$/vue_web/node_modules/vue-template-compiler/types/test.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="67" column="2" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_web/node_modules/vue-template-compiler/types/test.ts" />
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1002,20 +930,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue_web/node_modules/vue-resource/types/vue.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_web/node_modules/axios/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="119" column="17" selection-start-line="119" selection-start-column="17" selection-end-line="119" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_web/node_modules/vue-resource/types/vue.d.ts" />
+    <entry file="file://$PROJECT_DIR$/vue_web/node_modules/axios/index.d.ts" />
     <entry file="file://$PROJECT_DIR$/flask_web/app.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -1024,129 +940,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue_web/config/prod.env.js">
+    <entry file="file://$USER_HOME$/anaconda2/envs/flask_web/lib/python2.7/site-packages/flask/helpers.py" />
+    <entry file="file://$PROJECT_DIR$/flask_web/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_web/src/axios/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="152">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#15#31#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_web/config/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_web/vue.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_web/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flask_web/main/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/anaconda2/envs/flask_web/lib/python2.7/site-packages/flask/helpers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="208" selection-start-line="208" selection-end-line="208" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_web/src/login/login.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1387">
-          <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_web/src/mp4/mp4.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_web/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_web/src/login/loginOut.vue">
+    <entry file="file://$PROJECT_DIR$/flask_web/views/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask_web/views/user.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-          <folding>
-            <element signature="e#15#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/vue_web/config/dev.env.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask_web/main/mian.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_web/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#140#161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_web/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="e#15#95#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://25de3509-bf4f-4e80-85ef-f29710f971b5/schema/main/table/user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_web/src/App.vue">
+    <entry file="file://$PROJECT_DIR$/vue_web/config/prod.env.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_web/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_web/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_web/build/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_web/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_web/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_web/vue.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -1160,10 +1015,140 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask_web/models.py">
+    <entry file="file://$PROJECT_DIR$/vue_web/src/top/top.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        <state relative-caret-position="-133">
+          <caret line="26" column="88" selection-start-line="26" selection-start-column="88" selection-end-line="26" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_web/src/axios/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_web/main/mian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#15#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_web/views/tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#14#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/envs/vuejs_flask/Lib/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="1273" selection-start-line="1273" selection-end-line="1273" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/envs/vuejs_flask/Lib/site-packages/werkzeug/wrappers/base_response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="644" lean-forward="true" selection-start-line="644" selection-end-line="644" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://25de3509-bf4f-4e80-85ef-f29710f971b5/schema/main/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_web/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_web/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_web/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_web/src/login/loginOut.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_web/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#140#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_web/src/login/login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_web/src/login/registe.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2014">
+          <caret line="134" column="34" lean-forward="true" selection-start-line="134" selection-start-column="34" selection-end-line="134" selection-end-column="34" />
+          <folding>
+            <element signature="e#3541#3687#0" />
+            <element signature="e#3707#3859#0" />
+            <element signature="n#style#0;n#!!top" />
+            <element signature="e#3530#3558#0" />
+            <element signature="e#3575#3598#0" />
+            <element signature="e#3607#3646#0" />
+            <element signature="e#3657#3706#0" />
+            <element signature="e#3719#3749#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_web/src/mp4/mp4.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_web/views/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="45" column="28" lean-forward="true" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+          <folding>
+            <element signature="e#29#38#0" expanded="true" />
+            <element signature="e#1761#3700#0" />
+            <element signature="e#3721#3795#0" />
+            <element signature="e#3843#5386#0" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -6,4 +6,4 @@ from flask_web.views.user import user
 app.register_blueprint(user, url_prefix="/")
 
 if __name__ == '__main__':
-    app.run()
+    app.run(port=5000)

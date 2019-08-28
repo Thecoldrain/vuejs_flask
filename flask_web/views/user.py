@@ -1,7 +1,8 @@
 # coding:utf-8
-import json
+# import json
 import re
-from .. import app, make_response, request, Blueprint, db,Response,jsonify
+from flask import Response, json
+from .. import app, request, Blueprint, db, Response, jsonify
 import jwt, datetime, time
 from ..models import User, CookieAuth
 from ..config import parameter
@@ -9,9 +10,11 @@ from .tools import loginauth
 
 user = Blueprint("user", __name__)
 
-@user.route("/")
+
+@user.route("/test", methods=["POST", "GET"])
 def test():
-    return make_response()
+    return jsonify({"sccess": "321312312"})
+
 
 # @loginauth
 @user.route('/login')
@@ -47,17 +50,17 @@ def signIn():
             db.session.add(cookie_t)
             db.session.commit()
             response.set_cookie(cookie, max_age=60 * 60 * 24 * 7)
-        return jsonify({"sccuess":"测试","测试":'21312'})
+        return jsonify({"sccuess": "测试", "测试": '21312'})
     return jsonify({"error": property['login_error']}, 404)
 
 
 @user.route("/registe", methods=['POST'])
 def registe():
     # 注册逻辑
-    response = make_response()
+    response = Response()
     response.headers["Access-Control-Allow-Origin"] = "*"
     response.headers["Access-Control-Allow-Methods"] = "POST"
-    response.headers["Access-Control-Allow-Headers"] = "x-requested-with,content-type"
+    response.headers["Access-Control-Allow-Headers"] = "x-requested-with"
 
     # request.headers.get("Access-Control-Allow-Origin","*")
     if request.method == 'POST':
@@ -76,16 +79,16 @@ def registe():
 
             re_phone = re.match(r'^1[3|4|5|8][0-9]\d{4,8}$', phone).string
         except Exception as e:
-            return response({"error":e})
+            return jsonify({"error": e})
         try:
             user = User.query.filter_by(username=username).first()
         except Exception as e:
             user = False
         if user:
-            return response({"error":"当前用户已被占用"},404)
+            return jsonify({"error": "当前用户已被占用"}, 404)
         re_name = re.match(r'(\s|\d|_)*', name).string
         if not re_name:
-            re_name=re_username
+            re_name = re_username
         if re_eamil == email and \
                 re_username == username and \
                 re_name == name and \
@@ -95,7 +98,7 @@ def registe():
                 user = User(username=username, passwrod=userpassword, email=email, phone=phone, name=name)
                 db.session.add(user)
                 db.session.commit()
-                return response({"success": parameter['create_user_success']}, 200)
+                return response({"success": parameter['create_user_success']})
     return response({"error": parameter['create_user_error']}, 404)
 
 
@@ -104,7 +107,8 @@ def github():
     # 第三方github登录认证
     # TODO
 
-    return  make_response({"测试":"s是否有结果"},200)
+    return Response({"测试": "s是否有结果"}, 200)
+
 
 @user.route("/loginauth")
 def signAuth():
@@ -147,4 +151,4 @@ def signAuth():
         response = jsonify()
         response.set_cookie(cookie, max_age=60 * 60 * 24 * 7)
 
-    return response
+    return Response

@@ -10,10 +10,10 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "bootstrap": "^3.4.1",
     "install": "^0.12.2",
-    "npm": "^6.9.0",
+    "npm": "^6.11.2",
     "popover": "^2.4.1",
     "popover.js": "^0.2.40",
     "popper.js": "^1.15.0",
@@ -21,6 +21,7 @@
     "qs.js": "^0.1.12",
     "video.js": "^7.5.4",
     "vue": "^2.5.2",
+    "vue-cookies": "^1.5.13",
     "vue-jsonp": "^0.1.8",
     "vue-resource": "^1.5.1",
     "vue-router": "^3.0.1",
