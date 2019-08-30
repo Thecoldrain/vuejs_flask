@@ -1,5 +1,5 @@
 # coding:utf-8
-from . import db
+from flask_web import db
 import datetime
 
 
